@@ -5,7 +5,3 @@
 ## Getting Start
 
 * [🛠 Getting set up](getting-start/getting-set-up.md)
-
-## Setup Guide
-
-* [💻 Addons](setup-guide/addons.md)

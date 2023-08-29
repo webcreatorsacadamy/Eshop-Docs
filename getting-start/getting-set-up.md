@@ -15,19 +15,3 @@ Requirements :&#x20;
 ## Setup Video
 
 {% embed url="https://www.youtube.com/embed/MthDjW3iEWk?si=q1YpFf3k1owlThi5" %}
-
-<details>
-
-<summary>Step 3: Making your first post</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 4: Publishing a post</summary>
-
-
-
-</details>
