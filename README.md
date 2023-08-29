@@ -8,16 +8,6 @@ Web Creators Eshop Now Realeased!
 
 > Laravel 8 and 9 Eshop is built for Laravel 8 and 9 versions and MySQL database backend. We also use the Livewire package in this Laravel 8 and 9 version. It has various features like a user can view all categories, view all products under a particular category, filter products by brand and price, select a product, select size, select color and add the product to his cart. User can add multiple products in cart and wish list. Payment methods like PayPal and COD are available on the checkout page.
 
-## Quick links
-
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
-
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
