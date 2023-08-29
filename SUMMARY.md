@@ -2,18 +2,10 @@
 
 * [👋 Welcome to Eshop](README.md)
 
-## Overview
+## Getting Start
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [🛠 Getting set up](getting-start/getting-set-up.md)
 
-## Product Guides
+## Setup Guide
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [💻 Addons](setup-guide/addons.md)
